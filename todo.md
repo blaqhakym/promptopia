@@ -1,0 +1,3 @@
+- [x] Implement search
+- [x] Implement click on tag
+- [x] Implement view other profiles
